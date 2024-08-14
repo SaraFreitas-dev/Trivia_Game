@@ -1,5 +1,5 @@
 from src.question_model import Question
-from src.img import logo
+from src.ascii import logo
 from colorama import init, Fore
 
 
